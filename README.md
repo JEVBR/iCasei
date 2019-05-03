@@ -1,6 +1,6 @@
 # README
 
-This README is about how to run this application. The apllication is to satisfy a challenge of iCasei
+This README is about how to run this application. The application is to satisfy a challenge of iCasei
 
 * Ruby version:
 
