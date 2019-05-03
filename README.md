@@ -11,13 +11,17 @@ This README is about how to run this application. The apllication is to satisfy 
 To set up the app type the following commands in the terminal:
 
 $ git clone git@github.com:JEVBR/iCasei.git
+
 $ cd iCasei
+
 $ bundle install
+
 $ yarn install
 
 * Database creation
 
 $ rails db:create
+
 $ rails db:migrate
 
 * startup:
