@@ -1,0 +1,15 @@
+<p>The latest vistors:<p>
+  <table class="table">
+    <tbody>
+      <% @guests.each do |guest| %>
+        <tr>
+          <td>ID: <%= guest.id %></td>
+          <td>GUID: <%= guest.GUID %></td>
+          <td>FROM: @<%= guest.URL %></td>
+          <td>AT: <%= guest.timestamp %></td>
+        </tr>
+      <% end %>
+    </tbody>
+</table>
+
+
