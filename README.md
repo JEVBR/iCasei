@@ -2,12 +2,13 @@
 
 This README is about how to run this application. The apllication is to satisfy a challenge of iCasei
 
-* Ruby version
+* Ruby version:
 
   Ruby 2.5.3 or up
   Rails 5.2.2 or up
 
-* Configuration
+* Configuration: 
+
 To set up the app type the following commands in the terminal:
 
 $ git clone git@github.com:JEVBR/iCasei.git
